@@ -1,0 +1,26 @@
+[
+  {
+    "codigoProducto": 12345,
+    "nombreProducto": "Coca Cola",
+    "cantidadStock": 10,
+    "precioProducto": 18
+  },
+  {
+    "codigoProducto": 5678,
+    "nombreProducto": "cheetos",
+    "cantidadStock": 5,
+    "precioProducto": 15
+  },
+  {
+    "codigoProducto": 8976,
+    "nombreProducto": "galletas",
+    "cantidadStock": 85,
+    "precioProducto": 22
+  },
+  {
+    "codigoProducto": 12785,
+    "nombreProducto": "jarritos",
+    "cantidadStock": 80,
+    "precioProducto": 19
+  }
+]

@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Documents\Proyectos VSC\Tienda2\obj\Debug\net9.0\Tienda2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\Proyectos VSC\Tienda2\obj\Debug\net9.0\Tienda2.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\Proyectos VSC\Tienda2\obj\Debug\net9.0\Tienda2.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\Proyectos VSC\Tienda2\obj\Debug\net9.0\Tienda2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Proyectos VSC\Tienda2\bin\Debug\net9.0\Tienda2.exe
+C:\Users\Lenovo\Documents\Proyectos VSC\Tienda2\bin\Debug\net9.0\Tienda2.deps.json
+C:\Users\Lenovo\Documents\Proyectos VSC\Tienda2\bin\Debug\net9.0\Tienda2.runtimeconfig.json
+C:\Users\Lenovo\Documents\Proyectos VSC\Tienda2\bin\Debug\net9.0\Tienda2.dll
+C:\Users\Lenovo\Documents\Proyectos VSC\Tienda2\bin\Debug\net9.0\Tienda2.pdb
+C:\Users\Lenovo\Documents\Proyectos VSC\Tienda2\obj\Debug\net9.0\Tienda2.dll
+C:\Users\Lenovo\Documents\Proyectos VSC\Tienda2\obj\Debug\net9.0\refint\Tienda2.dll
+C:\Users\Lenovo\Documents\Proyectos VSC\Tienda2\obj\Debug\net9.0\Tienda2.pdb
+C:\Users\Lenovo\Documents\Proyectos VSC\Tienda2\obj\Debug\net9.0\Tienda2.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\Proyectos VSC\Tienda2\obj\Debug\net9.0\ref\Tienda2.dll
